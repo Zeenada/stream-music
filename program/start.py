@@ -67,10 +67,10 @@ async def start_(client: Client, message: Message):
                         "ᴄᴏᴍᴍᴀɴᴅ", callback_data="cbcmds"
                     ),
                     InlineKeyboardButton(
-                        "ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}")
+                        "ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/channel_BangJago")
                 ],[
                     InlineKeyboardButton(
-                        "ᴄʀᴇᴀᴛᴏʀ​", url=f"https://t.me/{OWNER_NAME}"
+                        "ᴄʀᴇᴀᴛᴏʀ​", url=f"https://t.me/bukansiapa2ok"
                     )
                 ]
             ]
