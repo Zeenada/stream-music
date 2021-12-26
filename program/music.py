@@ -278,10 +278,10 @@ async def stream(c: Client, m: Message):
         [
                     [
                         InlineKeyboardButton(text="•ᴍᴇɴᴜ•", callback_data="cbmenu"),
-                        InlineKeyboardButton(text="•ᴄʜᴀɴɴᴇʟ•", url=f"https://t.me/Takichanbot")
+                        InlineKeyboardButton(text="•ᴄʜᴀɴɴᴇʟ•", url=f"https://t.me/channel_BangJago")
                     ],
                     [
-                        InlineKeyboardButton(text="•ᴏᴡɴᴇʀ•", url="https://t.me/Zxyune"),
+                        InlineKeyboardButton(text="•ᴏᴡɴᴇʀ•", url="https://t.me/bukansiapa2ok"),
                         InlineKeyboardButton(text="•ᴄʟᴏsᴇ•", callback_data="cls")
                     ]
                 ]
