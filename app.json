@@ -8,9 +8,9 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/Takichanbot",
-    "repository": "https://github.com/Cangcimenn/stream-music",
-    "success_url": "https://t.me/Zxyune",
+    "website": "https://t.me/channel_BangJago",
+    "repository": "https://github.com/Zeenada/z-nada",
+    "success_url": "https://t.me/bukansiapa2ok",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
