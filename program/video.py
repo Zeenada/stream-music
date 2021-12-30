@@ -64,10 +64,10 @@ async def vplay(c: Client, m: Message):
         [
                     [
                         InlineKeyboardButton(text="•ᴍᴇɴᴜ•", callback_data="cbmenu"),
-                        InlineKeyboardButton(text="•ᴄʜᴀɴɴᴇʟ•", url=f"https://t.me/channel_BangJago")
+                        InlineKeyboardButton(text="•ᴄʜᴀɴɴᴇʟ•", url=f"https://t.me/Ampun_Jago")
                     ],
                     [
-                        InlineKeyboardButton("•ᴏᴡɴᴇʀ•", url="t.me/bukansiapa2ok"),
+                        InlineKeyboardButton("•ᴏᴡɴᴇʀ•", url="t.me/Badut_gw"),
                         InlineKeyboardButton(text="•ᴄʟᴏsᴇ•", callback_data="cls")
                     ]
                 ]
